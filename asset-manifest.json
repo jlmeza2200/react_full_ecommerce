@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jlmeza2200/react_full_ecommerce/static/css/main.073c9b0a.css",
+    "main.js": "/jlmeza2200/react_full_ecommerce/static/js/main.5f384e68.js",
+    "static/js/787.27028d62.chunk.js": "/jlmeza2200/react_full_ecommerce/static/js/787.27028d62.chunk.js",
+    "static/media/logo.svg": "/jlmeza2200/react_full_ecommerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jlmeza2200/react_full_ecommerce/index.html",
+    "main.073c9b0a.css.map": "/jlmeza2200/react_full_ecommerce/static/css/main.073c9b0a.css.map",
+    "main.5f384e68.js.map": "/jlmeza2200/react_full_ecommerce/static/js/main.5f384e68.js.map",
+    "787.27028d62.chunk.js.map": "/jlmeza2200/react_full_ecommerce/static/js/787.27028d62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f384e68.js"
+  ]
+}
